@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌅 🚵‍♂️ Sunsets and cycling enthusiast.
 - 🌉 🧐 Passionate about exploring the intersection of urban design, AI, and spatial analysis.
 - 🗺️
-![dd-2030](/d-intro.jpg)
+![dd-2030](/ding-s.jpeg)
