@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👨‍🎓 About Me
+
+- A Wanderer of the World Wide Web and Cities.
+- Sunsets and cycling enthusiast.
+- Passionate about exploring the intersection of urban design, AI, and spatial analysis.
+![dd-2030](images/d-intro.jpg)
